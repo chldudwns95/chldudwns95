@@ -3,11 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudwns95&show_icons=true&theme=radical)](https://github.com/chldudwns95/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldudwns95&show_icons=true&theme=radical)](https://github.com/chldudwns95/github-readme-stats)
 
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-
-
-
 <div>
   <!--count-->
 <!--   <a href="https://github.com/chldudwns95"> -->
@@ -20,6 +15,9 @@
   <img src="https://img.shields.io/badge/javascript-green?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/oracle-green?style=flat-square&logo=oracle&logoColor=white"/>
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 
 <!--
 **chldudwns95/chldudwns95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
