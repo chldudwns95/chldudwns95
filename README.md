@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&section=header&color=auto&height=200&text=chldwns's&animation=fadeIn)
 
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudwns95&show_icons=true&theme=radical)](https://github.com/chldudwns95/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldudwns95&show_icons=true&theme=radical)](https://github.com/chldudwns95/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudwns95&show_icons=true&theme=radical)](https://github.com/chldudwns95/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldudwns95&show_icons=true&theme=radical)](https://github.com/chldudwns95/github-readme-stats)
 
 <div align = "center">
   <!--count-->
