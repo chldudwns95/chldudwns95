@@ -1,6 +1,7 @@
 
 <!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> -->
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=200px&section=header&text=chldwns's&fontSize=25px)
+
+![header](https://capsule-render.vercel.app/api?text="chldwns's&color=gradient&customColorList=0,2,2,5,30)
 
 <a href="https://github.com/chldudwns95">
   <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchldudwns95%2F&count_bg=%235F5A5A&title_bg=%235F5A5A&icon=smugmug.svg&icon_color=%23FFFFFF&title=%3AD&edge_flat=false)"/>
