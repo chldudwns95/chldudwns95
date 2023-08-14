@@ -6,8 +6,10 @@
   <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchldudwns95%2F&count_bg=%235F5A5A&title_bg=%235F5A5A&icon=smugmug.svg&icon_color=%23FFFFFF&title=%3AD&edge_flat=false)"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudwns95)](https://github.com/chldudwns95/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudwns95&show_icons=true&theme=radical)](https://github.com/chldudwns95/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldudwns95&show_icons=true&theme=radical)](https://github.com/chldudwns95/github-readme-stats)
+
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
