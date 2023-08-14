@@ -1,7 +1,7 @@
 
 <!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> -->
 
-![header](https://capsule-render.vercel.app/api?text=chldwns's_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=chldwns's&fontColor=white&animation=fadeIn)
 
 
 <a href="https://github.com/chldudwns95">
