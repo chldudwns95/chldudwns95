@@ -1,6 +1,6 @@
 
 <!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> -->
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=높이&section=header&text=텍스트&fontSize=폰트크기)
+(https://capsule-render.vercel.app/api?type=모양&color=auto&height=200px&section=header&text=chldwns's&fontSize=25px)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudwns95)](https://github.com/chldudwns95/github-readme-stats)
