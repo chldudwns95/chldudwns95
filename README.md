@@ -3,6 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chldudwns95&show_icons=true&theme=radical)](https://github.com/chldudwns95/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chldudwns95&show_icons=true&theme=radical)](https://github.com/chldudwns95/github-readme-stats)
 
+</hr>
 <div align = "center">
   <!--count-->
 <!--   <a href="https://github.com/chldudwns95"> -->
@@ -15,7 +16,7 @@
   <img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/oracle-skyblue?style=flat-square&logo=oracle&logoColor=white"/>
 </div>
-
+</hr>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
